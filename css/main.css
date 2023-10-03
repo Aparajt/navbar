@@ -1,0 +1,43 @@
+body{
+    background-color: gray;
+}
+.a{
+    background-color: white;
+    margin: 25px;
+    width: 400px;
+    height: 700px;
+    float: left;
+    box-shadow: 3px 5px 13px #020001;
+    font-size: 35px;
+}
+.b{
+    border: 5px solid ;
+    background-color:red;
+    color: white;
+    text-align: center;
+    font-size: 60px;
+    background-size: contain;
+    margin-left: 11cm;
+    margin-right: 11cm;
+}
+} 
+.btn{
+    position: relative;
+    top: -10px;
+    width: 180px;
+    height: 36px;
+    background-color: yellow;
+    color: black;
+    font-size: 20px;
+    border: none;
+    border-radius: 6px;
+    box-shadow: 3px 5px 13px #020001;
+}
+.btn:hover{ 
+    background: red;
+transition: 0.5s
+;}
+.a:hover{
+    background: red;
+    transition: 0.5s;
+}

@@ -1,0 +1,29 @@
+body{
+    background-color: white;
+}
+.a{
+    background-color: white;
+    margin: 25px;
+    width: 350px;
+    height: 400px;
+    float: left; 
+    box-shadow: 3px 5px 13px #020001;
+    font-size: 35px;
+    margin-left: 65px;
+    border-radius: 12px;
+}
+.b{
+    font-size: 20px;
+    color: steelblue;
+    position: relative;
+    top: -10px;
+}
+.c{
+    margin-left: 4cm;
+    color: steelblue;
+    font-size: 50px;
+}
+.a:hover{ 
+    background: rgba(128, 128, 128, 0.956);
+    transition: 0.5s;
+}

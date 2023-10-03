@@ -1,0 +1,162 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.topbar{
+    width: 100%;
+    height: 40px;
+    /* color: #ffffff */
+    background-color:#410088
+    /* display: flex; */
+   
+    
+}
+.topbar p{
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    color:#ffffff ;
+    padding-top: 10px;
+    margin-left: 5cm;
+    
+}
+input{
+    margin-left: 35cm;
+    position: relative;
+    top: -15px;
+}
+ 
+.nav{
+    width: 100%;
+    height: 100px;
+    background-color: rgb(146, 57, 161);
+}
+.menu{
+    width: 100%;
+    height: 60px;
+    background: linear-gradient(to bottom, #eabb0c 0%, #ffab2c 100%);
+}
+.border{
+    background:#4d4090 url(../image/city_background.png) no-repeat top right;
+    height: 50px;
+}
+.border marquee{
+    font-size: 25px;
+    color: #ffffff;
+    position: relative;
+    top: 6px;
+}
+.div{
+    display: flex;
+    box-sizing: border-box;
+    
+    margin-left: 5cm; 
+    margin-right: 5cm;
+    
+    
+}
+.iconbox image{ 
+    
+    
+    
+
+}
+.box1{
+    display: flex;
+    padding: 70px 0px;
+}
+
+.box{
+     width: 11cm; 
+    height: 3cm;
+    border: solid #C2D9DE;
+    display: flex;
+    background-color: #f3f4ff;
+}
+.button{
+    width: 150px;
+    height: 50px;
+    background-color: #4d4090;
+    color: #ffffff;
+    font-size: 24px;
+}
+.textbox{
+    width: 9cm; 
+    height: 8cm;
+    position: relative;
+    top: 5px;
+    left: 5cm;
+    text-align: justify;
+}
+.text{
+    font-family: 'Heebo', sans-serif;
+    font-size: 1.2vw;
+    font-weight: 400;
+    background: #fff;
+    color: #212121;
+    margin-top: 4px;
+}
+.yogi{
+    border: solid #f3f4ff;
+    background-color: #f3f4ff;
+    position: relative;
+    left: 9cm;
+    padding-top: 0.5cm;
+    width: 20cm;
+    height: 5cm;
+    margin-top: 0.4cm;
+}
+.parth{
+    border: solid #f3f4ff;
+    background-color: #f3f4ff;
+    margin-left: 9cm;
+    margin-top: 8px;
+    width:9.9cm ;
+    height: 2.5cm;
+}
+.san{
+    border: solid #f3f4ff;
+    background-color: #f3f4ff;
+    margin-left: 8px;
+    margin-top: 8px;
+    width:9.9cm ;
+    height: 2.5cm;
+}
+.container{
+    width: 33.33333333%;
+    float: left;
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+    
+}
+.speaker{
+    width: 50px;
+    height: 55px;
+    position: relative;
+    left: 140px;
+    top: -236px;
+    border: 1px solid #d9f2ff;
+    border-right: none;
+    z-index: 9;
+    background: #33537b;
+    padding: 8px;
+    box-shadow: 10px 0px 7px -5px #00000078;
+    text-align: center;
+    display: table-cell;
+}
+.endbox{
+    background-color: #32363a;
+    columns: #cecece;
+    display: flex;
+    margin-top: 1cm;
+}
+
+
+
+
+
+
+    
